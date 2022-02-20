@@ -1,0 +1,24 @@
+{
+  "name": "node-lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Nikita Burmatov",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "cucumber": "^7.0.0-rc.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "type": "module"
+}
